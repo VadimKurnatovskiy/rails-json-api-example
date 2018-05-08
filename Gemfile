@@ -10,7 +10,6 @@ gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'pg', '~> 0.18'
 gem 'jsonapi-resources', '~> 0.9.0'
-gem 'metainspector', '~> 5.4', '>= 5.4.2'
 
 group :development, :test do
   gem 'pry-rails', '~> 0.3.6'
